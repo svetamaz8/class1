@@ -1,0 +1,18 @@
+---
+- name: Wednesday Warmup
+  hosts: bluefish
+  connection: local
+  gather_facts: false
+
+  - name: Get CPU model
+    ansible.general.redfish_info:
+      category: Systems
+      command: GetCpuInventory
+      baseuri: "{{ baseuri }}"
+
+  - name: Restart system power gracefully
+    ansible.general.redfish_command:
+      category: Systems
+      command: PowerForceOff
+      resource_id: BMC
+      baseuri: "{{ baseuri }}"
