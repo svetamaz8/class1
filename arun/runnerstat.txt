@@ -1,0 +1,64 @@
+****** PLAYBOOK RUN BREAKDOWN ******
+
+{'skipped': {}, 'ok': {'localhost': 1}, 'dark': {}, 'failures': {}, 'ignored': {}, 'rescued': {}, 'processed': {'localhost': 1}, 'changed': {'localhost': 1}}
+
+EVENT:  verbose
+UUID:  cbeae67c-ce8b-43ae-8ae6-7e292a8da36d
+
+EVENT:  verbose
+UUID:  d931d92f-8ed8-46d9-b265-d22fab7bfd26
+
+EVENT:  verbose
+UUID:  0f162579-3f16-4d5a-940c-ab79553196b2
+
+EVENT:  verbose
+UUID:  3c0b073a-a507-4342-8aa4-9486af32ae57
+
+EVENT:  verbose
+UUID:  65003a6c-afea-4ba2-b5be-8963ad646129
+
+EVENT:  verbose
+UUID:  436f482c-5efc-4c06-9c5b-deb7248153f0
+
+EVENT:  verbose
+UUID:  b11f23c6-fe0e-4c68-a929-54880a70030a
+
+EVENT:  verbose
+UUID:  dd1eeb6f-624c-440c-95fe-3ea0254e4c0b
+
+EVENT:  verbose
+UUID:  56385d14-0a22-4140-9560-117a12d6ae76
+
+EVENT:  verbose
+UUID:  5412905b-44c4-4c71-8a5b-e406976cedc5
+
+EVENT:  verbose
+UUID:  3548ed00-c1c8-444d-88ed-ee70e058998b
+
+EVENT:  verbose
+UUID:  8efda3eb-5178-41c0-b8a0-5bf60bcc70e9
+
+EVENT:  playbook_on_start
+TASK:  None
+UUID:  90f844ff-3c12-47c3-a164-d8994db542b4
+
+EVENT:  playbook_on_play_start
+TASK:  None
+UUID:  c3fba83e-cbba-7b7a-4488-000000000011
+
+EVENT:  playbook_on_task_start
+TASK:  apt
+UUID:  c3fba83e-cbba-7b7a-4488-000000000013
+
+EVENT:  runner_on_start
+TASK:  apt
+UUID:  988fe1a0-4aad-4da4-a636-598caf87404c
+
+EVENT:  runner_on_ok
+TASK:  apt
+UUID:  e439ad44-7835-45cc-8f99-6d57236d491d
+
+EVENT:  playbook_on_stats
+TASK:  None
+UUID:  0860e3d3-e7ef-49ca-91dc-93102d71fd98
+

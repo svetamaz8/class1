@@ -1,0 +1,15 @@
+[1;35m[WARNING]:  * Failed to parse /home/student/mycode/inv/dev/playbook-[0m
+[1;35mredfish01.yml with auto plugin: no root 'plugin' key found,[0m
+[1;35m'/home/student/mycode/inv/dev/playbook-redfish01.yml' is not a valid YAML[0m
+[1;35minventory plugin config file[0m
+[1;35m[WARNING]:  * Failed to parse /home/student/mycode/inv/dev/playbook-[0m
+[1;35mredfish01.yml with yaml plugin: YAML inventory has invalid structure, it should[0m
+[1;35mbe a dictionary, got: <class 'ansible.parsing.yaml.objects.AnsibleSequence'>[0m
+[1;35m[WARNING]:  * Failed to parse /home/student/mycode/inv/dev/playbook-[0m
+[1;35mredfish01.yml with ini plugin: Invalid host pattern '---' supplied, '---' is[0m
+[1;35mnormally a sign this is a YAML file.[0m
+[1;35m[WARNING]: Unable to parse /home/student/mycode/inv/dev/playbook-redfish01.yml[0m
+[1;35mas an inventory source[0m
+[0;32mlocalhost | SUCCESS => {[0m
+[0;32m    "msg": "hello"[0m
+[0;32m}[0m

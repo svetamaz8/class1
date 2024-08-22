@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "77024008-5dea-4842-a96f-1e18a7bf4b87", "counter": 1, "stdout": "\u001b[1;35m[WARNING]:  * Failed to parse /home/student/mycode/inv/dev/playbook-\u001b[0m", "start_line": 0, "end_line": 1, "runner_ident": "591b4df2-e2ab-49f2-ab16-0f8f5a21d1f1", "created": "2024-08-22T20:46:39.756885+00:00"}

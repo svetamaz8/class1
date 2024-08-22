@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "34594b26-a4f1-4fad-8462-04bf569812ce", "counter": 6, "stdout": "\u001b[1;35mredfish01.yml with yaml plugin: YAML inventory has invalid structure, it should\u001b[0m", "start_line": 5, "end_line": 6, "runner_ident": "591b4df2-e2ab-49f2-ab16-0f8f5a21d1f1", "created": "2024-08-22T20:46:39.765066+00:00"}

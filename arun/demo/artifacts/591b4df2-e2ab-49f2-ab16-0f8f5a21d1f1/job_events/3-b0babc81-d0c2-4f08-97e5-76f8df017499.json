@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "b0babc81-d0c2-4f08-97e5-76f8df017499", "counter": 3, "stdout": "\u001b[1;35m'/home/student/mycode/inv/dev/playbook-redfish01.yml' is not a valid YAML\u001b[0m", "start_line": 2, "end_line": 3, "runner_ident": "591b4df2-e2ab-49f2-ab16-0f8f5a21d1f1", "created": "2024-08-22T20:46:39.761064+00:00"}

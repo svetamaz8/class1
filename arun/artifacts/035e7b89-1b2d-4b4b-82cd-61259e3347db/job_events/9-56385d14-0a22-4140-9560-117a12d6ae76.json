@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "56385d14-0a22-4140-9560-117a12d6ae76", "counter": 9, "stdout": "\u001b[1;35mredfish01.yml with ini plugin: Invalid host pattern '---' supplied, '---' is\u001b[0m", "start_line": 8, "end_line": 9, "runner_ident": "035e7b89-1b2d-4b4b-82cd-61259e3347db", "created": "2024-08-22T20:44:29.008048+00:00"}
